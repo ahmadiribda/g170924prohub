@@ -1,1 +1,1 @@
-alert("Hello I am using js!");
+alert("Hello I am using js devTester m ode !");
